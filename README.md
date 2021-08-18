@@ -1,7 +1,7 @@
 # ood-deep-learning
 Repository for the project proposal "A Thorough Analysis of Deep Neural Networks under Distribution Shift"
 
-Note that to run the experiments you have to have a data folder with CIFAR-10 that you can download by specifying download=True, in the *fight_* script.
+Note that to run the experiments you have to have a data folder with CIFAR-10 that you can download by specifying download=True, in the *train_cifar* script.
 
 ## Download CIFAR-10-C
 ```
